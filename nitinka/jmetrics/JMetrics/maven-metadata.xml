@@ -3,12 +3,13 @@
   <groupId>nitinka.jmetrics</groupId>
   <artifactId>JMetrics</artifactId>
   <versioning>
-    <release>0.1.5</release>
+    <release>0.1.6</release>
     <versions>
       <version>0.1.3</version>
       <version>0.1.4</version>
       <version>0.1.5</version>
+      <version>0.1.6</version>
     </versions>
-    <lastUpdated>20140120060213</lastUpdated>
+    <lastUpdated>20140123062234</lastUpdated>
   </versioning>
 </metadata>
